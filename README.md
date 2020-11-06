@@ -1,24 +1,38 @@
+
 # PNU_3991_AR
 ----------
-### محدثه روحانی 
-
+### محدثه روحانی
 ---
--[حساب گیت هاب](https://github.com/MohaddeseRohani)
--[آدرس رزومه](https://mohaddeserohani.github.io)
--[sop](https://github.com/MohaddeseRohani/SOP1)
-
+- [حساب گیت هاب](https://github.com/MohaddeseRohani)
+- [آدرس رزومه](https://github.com/MohaddeseRohani/mohaddeserohani.github.io)
+- [SOP](https://mohaddeserohani.github.io/SOP/)
 
 -------------------
+## گروه ها
+
+1. G-L01
+
+   6. [_LMT-28_محدثه روحانی](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines/_1115157_01/28_%D9%85%D8%AD%D8%AF%D8%AB%D9%87%20%D8%B1%D9%88%D8%AD%D8%A7%D9%86%D9%8A)
+
+
+2. G-R01
+   
+   1. [_RAPM-26_محدثه روحانی](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/ResearchAndPresentationMethods/1322010_01/26_%D9%85%D8%AD%D8%AF%D8%AB%D9%87%20%D8%B1%D9%88%D8%AD%D8%A7%D9%86%D9%8A)
+
+   
+-----------------
+
+
+
 ## Winter Semester Courses 1399/2020
 
 ## دروس کارشناسی
 
-[1115157_01 & 02 نظريه زبانهاوماشين ها 3](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines)
+[1115157_01 نظريه زبانهاوماشين ها](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines)
 
-[1322010_01 & 02 روش پژوهش و ارائه 2](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/ResearchAndPresentationMethods)
+[1322010_01 روش پژوهش و ارائه](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/ResearchAndPresentationMethods)
 
 -----------------
-
 ## روز و ساعت ارائه دروس
 
 <table style="width:100%">
