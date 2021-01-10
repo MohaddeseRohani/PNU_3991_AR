@@ -12,6 +12,18 @@
 - [PNU_1991_AR](https://github.com/MohaddeseRohani/PNU_3991_AR)
 - [java script license](https://github.com/MohaddeseRohani/PNU_3991_AR/blob/main/download.jpg)
 
+> ارزیابی ها
+
+##  بخش عمومی
+- [ارزیابی رزومه و انگیزه نامه](https://github.com/MohaddeseRohani/PNU_3991_AR/blob/main/MR_CV_CheckList_AR_3991.pdf)
+- [خلاصه ارزیابی بخش عمومی](https://github.com/MohaddeseRohani/PNU_3991_AR/blob/main/MR_GeneralSection_CheckList_AR_3991.pdf)
+
+## بخش دروس کارشناسی
+- [ ارزیابی درس_روش پژوهش وارائه](https://github.com/MohaddeseRohani/PNU_3991_AR/blob/main/MR_ResearchAndPresentationMethods_CheckList_AR_3991.pdf)
+- [ارزيابي درس نظريه زبان ها و ماشين ها](https://github.com/MohaddeseRohani/PNU_3991_AR/blob/main/MR_Theory-of-Languages-and-Machines_CheckList_AR_3991.pdf)
+
+--------------------
+
 -----------
 # گروه ها
  1. [ RPM-51 فاطمه قاسمی نیاسر](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/ResearchAndPresentationMethods/1322010_01/51_%D9%81%D8%A7%D8%B7%D9%85%D9%87%20%D9%82%D8%A7%D8%B3%D9%85%D9%8A%20%D9%86%D9%8A%D8%A7%D8%B3%D8%B1)
