@@ -25,7 +25,8 @@
 --------------------
 
 # گروه ها
- 1. [ RPM-51 فاطمه قاسمی نیاسر](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/ResearchAndPresentationMethods/1322010_01/51_%D9%81%D8%A7%D8%B7%D9%85%D9%87%20%D9%82%D8%A7%D8%B3%D9%85%D9%8A%20%D9%86%D9%8A%D8%A7%D8%B3%D8%B1)
+# روش پژوهش و ارائه 
+1. [ RPM-51 فاطمه قاسمی نیاسر](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/ResearchAndPresentationMethods/1322010_01/51_%D9%81%D8%A7%D8%B7%D9%85%D9%87%20%D9%82%D8%A7%D8%B3%D9%85%D9%8A%20%D9%86%D9%8A%D8%A7%D8%B3%D8%B1)
  
  1. [ RPM-02 زهرا احمدی](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/ResearchAndPresentationMethods/1322010_02/02_%D8%B2%D9%87%D8%B1%D8%A7%20%D8%A7%D8%AD%D9%85%D8%AF%D9%8A)
 
@@ -48,7 +49,7 @@
  
  ------------
  
- - G-L01
+ - G-L01 (نظريه زبانها و ماشين ها )
 
    1. [_LMT-40_صغری عزیزی](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines/_1115157_01/40_%D8%B5%D8%BA%D8%B1%D9%8A%20%D8%B9%D8%B2%D9%8A%D8%B2%D9%8A)
    2. [_LMT-59_مژگان متقی ثابت](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines/_1115157_01/59_%D9%85%DA%98%DA%AF%D8%A7%D9%86%20%D9%85%D8%AA%D9%82%D9%8A%20%D8%AB%D8%A7%D8%A8%D8%AA)
