@@ -15,12 +15,12 @@
 > ارزیابی ها
 
 ##  بخش عمومی
-- [ارزیابی رزومه و انگیزه نامه](https://github.com/MohaddeseRohani/PNU_3991_AR/blob/main/MR_CV_CheckList_AR_3991.pdf)
-- [خلاصه ارزیابی بخش عمومی](https://github.com/MohaddeseRohani/PNU_3991_AR/blob/main/MR_GeneralSection_CheckList_AR_3991.pdf)
+- [ارزیابی رزومه و انگیزه نامه](https://github.com/MohaddeseRohani/PNU_3991_AR/blob/main/General%20checkList/MR_CV_CheckList_AR_3991.pdf)
+- [خلاصه ارزیابی بخش عمومی](https://github.com/MohaddeseRohani/PNU_3991_AR/blob/main/General%20checkList/MR_GeneralSection_CheckList_AR_3991.pdf)
 
 ## بخش دروس کارشناسی
-- [ ارزیابی درس_روش پژوهش وارائه](https://github.com/MohaddeseRohani/PNU_3991_AR/blob/main/MR_ResearchAndPresentationMethods_CheckList_AR_3991.pdf)
-- [ارزيابي درس نظريه زبان ها و ماشين ها](https://github.com/MohaddeseRohani/PNU_3991_AR/blob/main/MR_Theory-of-Languages-and-Machines_CheckList_AR_3991.pdf)
+- [ ارزیابی درس_روش پژوهش وارائه](https://github.com/MohaddeseRohani/PNU_3991_AR/blob/main/Research-And-Presentation-metods/MR_ResearchAndPresentationMethods_CheckList_AR_3991.pdf)
+- [ارزيابي درس نظريه زبان ها و ماشين ها](https://github.com/MohaddeseRohani/PNU_3991_AR/blob/main/Theory-of-Languages-and-Machines/MR_Theory-of-Languages-and-Machines_CheckList_AR_3991.pdf)
 
 --------------------
 
@@ -71,8 +71,7 @@
 
 [پایان نامه ارشد دانشگاه ایالتی اوهایو با موضوع :Measurement of machine learning performance with different condition and hyperparameter](https://oatd.org/oatd/search?q=id%3A%22oai%3Aetd.ohiolink.edu%3Aosu1587693436870594%22)
 
-------------
-   
+
 -----------------
 
 
