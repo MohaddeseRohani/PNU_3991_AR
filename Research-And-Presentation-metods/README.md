@@ -40,8 +40,9 @@
 ------------------
 ## ارائه کتبی با لاتک از منابع دیگر به زبان اصلی
 
-- [Beamer](https://github.com/MohaddeseRohani/PNU_3991_AR/blob/main/Research-And-Presentation-metods/Beamer.pdf)
-
+-[pages 76-78](https://github.com/MohaddeseRohani/PNU_3991_AR/blob/main/Research-And-Presentation-metods/76-78%20pages.pdf)
+- [Beamer pdf](https://github.com/MohaddeseRohani/PNU_3991_AR/blob/main/Research-And-Presentation-metods/Beamer.pdf)
+- [Beamer tex](https://github.com/MohaddeseRohani/PNU_3991_AR/blob/main/Research-And-Presentation-metods/Beamer76-78.tex)
 --------------
 
 
