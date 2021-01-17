@@ -6,7 +6,7 @@
 <br>
 
 # ارائه شفاهی یک فصل از کتاب مرجع اصلی درس
-- [ارائه شفاهی فصل ششم_ساده سازي گرامر هاي مستقل از متن](***)
+- [ارائه شفاهی فصل ششم_ساده سازي گرامر هاي مستقل از متن](https://www.aparat.com/v/a9zVf)
 
 # فرم ارزيابي درس نظريه زبان ها و ماشين ها
 -[click here](https://github.com/MohaddeseRohani/PNU_3991_AR/blob/main/Theory-of-Languages-and-Machines/MR_Theory-of-Languages-and-Machines_CheckList_AR_3991.pdf)
@@ -21,4 +21,6 @@
 
 # ارائه شفاهی دو مساله از منابع دیگر با لاتک
 
+- [latex .pdf](https://github.com/MohaddeseRohani/PNU_3991_AR/blob/main/Theory-of-Languages-and-Machines/latex.pdf)
+- [latex .tex](https://github.com/MohaddeseRohani/PNU_3991_AR/blob/main/Theory-of-Languages-and-Machines/latex%20question%20tex)
 
