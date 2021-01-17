@@ -1,0 +1,118 @@
+\documentclass[a4paper,11pt]{article}
+\usepackage{multicol,etoolbox}
+\usepackage{amsthm,amssymb,amsmath,mathrsfs,amscd,mathtools,dsfont,nccmath}
+\usepackage{tikz}
+\usepackage{roundbox}
+\usepackage{float}
+\usepackage[framemethod=tikz]{mdframed}
+\usepackage{lipsum}
+\usepackage{enumitem}
+\usepackage{tcolorbox}
+\usepackage{xcolor,fancybox}
+\usetikzlibrary{calc,shapes,snakes}
+\usepackage[top=2cm,right=1cm,bottom=2cm,left=1cm]{geometry} 
+\usepackage{hyperref,fontspec}
+\usepackage{setspace}
+\usepackage{pdfpages}
+%\usepackage[fleqn]{amsmath}
+%\usepackage{tocbibind}
+\usepackage{subfigure}
+\usepackage{color,graphicx}
+\usepackage{listings}
+\usepackage{framed}
+\usepackage{tkz-tab, graphicx, fancyhdr, verbatim, amscd, multicol}
+\usepackage{xepersian}
+\settextfont[Scale=1]{XB Niloofar}
+\setlatintextfont{Times New Roman}
+\newfontfamily{\digits}[Scale=.9]{Times New Roman}
+\doublespacing
+%\makeatletter
+%\appto{\endmulticols}{\@doendpe}
+%\makeatletter
+%\fancypage{}{\setlength{\fboxrule}{0.01cm}\ovalbox}
+%\setlength\parindent{0pt}
+\begin{document}
+\begin{enumerate}
+	\item [1.]
+گرامر زیر را در نظر بگیرید:
+	\begin{flalign*}
+		&S\rightarrow AB&\\
+		&A\rightarrow a&\\
+		&B\rightarrow C&\\
+		&C\rightarrow D&\\
+		&D\rightarrow b&
+	\end{flalign*}
+گرامر حاصل، پس از حذف قوانین واحد (یکه) برابر خواهد بود با :
+	\begin{multicols}{4}
+		\begin{enumerate}
+			\item [1.]
+			\begin{flalign*}
+				\left.\begin{array}{l}
+					S \rightarrow AB\\
+					A \rightarrow a \\
+					B \rightarrow b 
+				\end{array}\right.
+			\end{flalign*}
+			\item [2.]
+			\begin{flalign*}
+				\left.\begin{array}{l}
+					S \rightarrow AB \\
+					A \rightarrow a\\
+					B \rightarrow C \\
+					C \rightarrow b 
+				\end{array}\right.
+			\end{flalign*}
+			\item [3.]
+			\begin{flalign*}
+				\left.\begin{array}{l}
+					S \rightarrow A | B \\
+					A \rightarrow a \\
+					B \rightarrow C \\
+					C \rightarrow b 
+				\end{array}\right.
+			\end{flalign*}
+			\item [4.]
+			\begin{flalign*}
+				\left.\begin{array}{l}
+					S \rightarrow A | B \\
+					A \rightarrow a \\
+					B \rightarrow b 
+				\end{array}\right.
+			\end{flalign*}
+		\end{enumerate}
+	\end{multicols}
+جواب : قوانین واحد قوانینی هستند که به فرم $ A\rightarrow B $ می باشد.\\
+با توجه به گرامر : 
+\begin{flalign*}
+\left.\begin{array}{l}
+S \rightarrow AB \\
+A \rightarrow a \\
+B \rightarrow b 
+\end{array}\right.
+\end{flalign*}
+چون $ C\rightarrow D $ ، $ B\rightarrow C $ و $ D\rightarrow b $ را می توان به صورت $ B\rightarrow b $ نوشت.
+\newpage
+	\item [2.]
+متغیر میرا در گرامر مقابل، کدام متغیر ها هستند؟
+\begin{flalign*}
+&S\rightarrow D | ABD&\\
+&A\rightarrow Aa | b&\\
+&B\rightarrow b | aD&\\
+&D\rightarrow AS | AE&\\
+&E\rightarrow DA&
+\end{flalign*}
+\begin{multicols}{2}
+	\begin{enumerate}
+		\item [1.]
+متغیرهای A ، S
+		\item [3.]
+متغیرهای A ، E
+		\item [2.]
+متغیرهای B ، D
+		\item [4.]
+این گرامر، متغیر میرا ندارد.
+	\end{enumerate}
+\end{multicols}
+جواب : هر قانون از گرامر مستقل از متن که به شکل $ A \rightarrow \lambda $ باشد قانون $  \lambda- $ و متغیر آن را متغیر میرا گویند. در گرامر داده شده هیچ متغیر میرا وجود ندارد.
+\end{enumerate}
+\end{document}
