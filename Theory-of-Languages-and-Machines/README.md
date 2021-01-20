@@ -21,6 +21,7 @@
 
 ## ارائه شفاهی دو مساله از منابع دیگر با لاتک
 
+- [ارائه شفاهي دو مساله](https://github.com/MohaddeseRohani/PNU_3991_AR/blob/main/Theory-of-Languages-and-Machines/Untitled1.wmv)
 - [latex .pdf](https://github.com/MohaddeseRohani/PNU_3991_AR/blob/main/Theory-of-Languages-and-Machines/latex.pdf)
 - [latex .tex](https://github.com/MohaddeseRohani/PNU_3991_AR/blob/main/Theory-of-Languages-and-Machines/latex%20question%20tex)
 
