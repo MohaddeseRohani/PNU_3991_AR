@@ -49,7 +49,7 @@
 
 ## ارائه شفاهی با حداکثر ۳ اسلاید لاتک از منبع دیگر
 
-<br>
+
 - [Beamer pdf](https://github.com/MohaddeseRohani/PNU_3991_AR/blob/main/Research-And-Presentation-metods/Beamer.pdf)
 - [Beamer tex](https://github.com/MohaddeseRohani/PNU_3991_AR/blob/main/Research-And-Presentation-metods/Beamer76-78.tex)
 --------------
