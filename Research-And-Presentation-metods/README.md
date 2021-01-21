@@ -43,13 +43,13 @@
 - [pages 76-78](https://github.com/MohaddeseRohani/PNU_3991_AR/blob/main/Research-And-Presentation-metods/76-78%20pages.pdf)
 - [Latex pdf](https://github.com/MohaddeseRohani/PNU_3991_AR/blob/main/Research-And-Presentation-metods/LaTeX.pdf)
 - [Latex tex](https://github.com/MohaddeseRohani/PNU_3991_AR/blob/main/Research-And-Presentation-metods/Latex%20.tex)
-- [Beamer pdf](https://github.com/MohaddeseRohani/PNU_3991_AR/blob/main/Research-And-Presentation-metods/Beamer.pdf)
-- [Beamer tex](https://github.com/MohaddeseRohani/PNU_3991_AR/blob/main/Research-And-Presentation-metods/Beamer76-78.tex)
+
 --------------
 
 
 ## ارائه شفاهی با حداکثر ۳ اسلاید لاتک از منبع دیگر
 
 <br>
-
+- [Beamer pdf](https://github.com/MohaddeseRohani/PNU_3991_AR/blob/main/Research-And-Presentation-metods/Beamer.pdf)
+- [Beamer tex](https://github.com/MohaddeseRohani/PNU_3991_AR/blob/main/Research-And-Presentation-metods/Beamer76-78.tex)
 --------------
